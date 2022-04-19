@@ -1,0 +1,2 @@
+- 👋 Hi, Liebe Leser
+- 👀 Ich bin Java Developer und kann auch anderes!
